@@ -1,0 +1,32 @@
+{
+  "name": "react-deployment-best-practices",
+  "version": "1.0.0",
+  "description": "Blog about Best practices for deploying a React Application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin-inguva/react-deployment-best-practices.git"
+  },
+  "keywords": [
+    "react",
+    "deployment",
+    "best",
+    "practices",
+    "pre-commit",
+    "hooks",
+    "ci",
+    "cd"
+  ],
+  "author": "Sachin Inguva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachin-inguva/react-deployment-best-practices/issues"
+  },
+  "homepage": "https://github.com/sachin-inguva/react-deployment-best-practices#readme",
+  "dependencies": {
+    "showdown": "^2.1.0"
+  }
+}
