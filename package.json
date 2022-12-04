@@ -4,6 +4,7 @@
   "description": "Blog about Best practices for deploying a React Application ",
   "main": "index.js",
   "scripts": {
+    "build": "showdown makehtml -i index.md -o index.html ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
